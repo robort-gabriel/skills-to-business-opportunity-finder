@@ -5,11 +5,12 @@
   Built on Zo Computer and compatible with Claude AI, it researches real demand and competitors, then hands you priced service packages and a positioning document.
 </p>
 
-<p align="center">
-  <img src="https://zo.pub/robort/skills-to-business-opportunity-finder/zo-logo.png" alt="Zo Computer" width="44" /> 
-  <img src="https://zo.pub/robort/skills-to-business-opportunity-finder/claude-logo.png" alt="Claude AI" width="44" />
-
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://zo.pub/robort/skills-to-business-opportunity-finder/zo-logo.png" alt="Zo Computer" width="44" /></td>
+    <td align="center"><img src="https://zo.pub/robort/skills-to-business-opportunity-finder/claude-logo.png" alt="Claude AI" width="44" /></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://zo.pub/robort/skills-to-business-opportunity-finder/pipeline-diagram.svg" alt="Analyze to Research to Scan to Rank to Package pipeline" width="560" />
