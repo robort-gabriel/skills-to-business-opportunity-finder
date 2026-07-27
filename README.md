@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://zo.pub/robort/skills-to-business-opportunity-finder/zo-logo.png" alt="Zo Computer" width="64" /> 
-  <img src="https://zo.pub/robort/skills-to-business-opportunity-finder/claude-logo.png" alt="Claude AI" width="64" />
+  <img src="https://zo.pub/robort/skills-to-business-opportunity-finder/zo-logo.png" alt="Zo Computer" width="44" /> 
+  <img src="https://zo.pub/robort/skills-to-business-opportunity-finder/claude-logo.png" alt="Claude AI" width="44" />
 
 </p>
 
